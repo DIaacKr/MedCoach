@@ -72,3 +72,7 @@ Enable coherent global reasoning by fine-tuning on full knowledge-enhanced reaso
     --global_batch_size 16 
 ```
 
+### Acknowledegments
+
+We thank for their open-source implementations: [m1](https://github.com/UCSC-VLAA/m1),[huatuogpt-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1), [MedReason](https://github.com/UCSC-VLAA/MedReason)
+
